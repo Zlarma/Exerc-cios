@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(to bottom, rgb(0, 0, 0), rgb(233, 127, 127), white);
+    height: 43vh;
+    margin: 200px;
+    position:relative;
+    top: -140px;
+}
+
+a{
+    position: relative;
+    top: -100px;
+}
+
+p{
+ font-size: 20px; 
+ background: none;  
+}
